@@ -10,6 +10,10 @@ of feedfinder.py,
 originally by Mark Pilgrim
 and Aaron Swartz.
 
+Credits from the original:
+Abe Fettig for a patch to sort Syndic8 feeds by popularity
+Also Jason Diamond, Brian Lalor for bug reporting and patches
+
 Original is located at:
     http://www.aaronsw.com/2002/feedfinder/
 
